@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "D:\\Workstation\\Flutter\\TestCrashlytics\\test_crash\\android\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\Software\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Workstation\\Flutter\\TestCrashlytics\\test_crash\\android\\app\\.cxx\\cmake\\release\\x86 --target clean"
+  ],
+  "libraries": {
+    "hello-jni-Release-x86": {
+      "artifactName": "hello-jni",
+      "buildCommand": "D:\\Software\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Workstation\\Flutter\\TestCrashlytics\\test_crash\\android\\app\\.cxx\\cmake\\release\\x86 --target hello-jni",
+      "abi": "x86",
+      "output": "D:\\Workstation\\Flutter\\TestCrashlytics\\test_crash\\build\\app\\intermediates\\cmake\\release\\obj\\x86\\libhello-jni.so"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+Executable : D:\Software\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HD:\Workstation\Flutter\TestCrashlytics\test_crash\android\app\src\main\cpp
+-BD:\Workstation\Flutter\TestCrashlytics\test_crash\android\app\.cxx\cmake\release\armeabi-v7a
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_PLATFORM=android-16
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\Workstation\Flutter\TestCrashlytics\test_crash\build\app\intermediates\cmake\release\obj\armeabi-v7a
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=D:\Software\Android\Sdk\ndk\21.0.6113669
+-DCMAKE_TOOLCHAIN_FILE=D:\Software\Android\Sdk\ndk\21.0.6113669\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=D:\Software\Android\Sdk\cmake\3.6.4111459\bin\ninja.exe
+-GAndroid Gradle - Ninja
+jvmArgs : 
+

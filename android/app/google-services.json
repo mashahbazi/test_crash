@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "412997021252",
+    "firebase_url": "https://testcrash-51eb8.firebaseio.com",
+    "project_id": "testcrash-51eb8",
+    "storage_bucket": "testcrash-51eb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412997021252:android:b4507c2cf96633e01b5611",
+        "android_client_info": {
+          "package_name": "com.example.test_crash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412997021252-v62ovm6lo9aalskit2ksn0de2t5a1cfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnTCkTrjxk2U7BUrsOrhKYI5nB1qyxkqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412997021252-v62ovm6lo9aalskit2ksn0de2t5a1cfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

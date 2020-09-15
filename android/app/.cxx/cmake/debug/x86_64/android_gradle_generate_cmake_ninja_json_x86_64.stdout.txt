@@ -1,0 +1,3 @@
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Workstation/Flutter/TestCrashlytics/test_crash/android/app/.cxx/cmake/debug/x86_64

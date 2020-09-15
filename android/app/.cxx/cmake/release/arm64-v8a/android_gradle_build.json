@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"D:/Workstation/Flutter/TestCrashlytics/test_crash/android/app/src/main/cpp/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"D:\\Software\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Workstation\\Flutter\\TestCrashlytics\\test_crash\\android\\app\\.cxx\\cmake\\release\\arm64-v8a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"hello-jni-Release-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "hello-jni",
+			"buildCommand" : "D:\\Software\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build D:\\Workstation\\Flutter\\TestCrashlytics\\test_crash\\android\\app\\.cxx\\cmake\\release\\arm64-v8a --target hello-jni",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=D:/Software/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/Software/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dhello_jni_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "D:/Workstation/Flutter/TestCrashlytics/test_crash/android/app/src/main/cpp/hello-jni.cpp",
+					"workingDirectory" : "D:/Workstation/Flutter/TestCrashlytics/test_crash/android/app/.cxx/cmake/release/arm64-v8a"
+				}
+			],
+			"output" : "D:/Workstation/Flutter/TestCrashlytics/test_crash/build/app/intermediates/cmake/release/obj/arm64-v8a/libhello-jni.so",
+			"toolchain" : "2746845253"
+		}
+	},
+	"toolchains" : 
+	{
+		"2746845253" : 
+		{
+			"cCompilerExecutable" : "D:/Software/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "D:/Software/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

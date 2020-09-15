@@ -1,0 +1,3 @@
+D:/Workstation/Flutter/TestCrashlytics/test_crash/android/app/.cxx/cmake/debug/x86/CMakeFiles/hello-jni.dir
+D:/Workstation/Flutter/TestCrashlytics/test_crash/android/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+D:/Workstation/Flutter/TestCrashlytics/test_crash/android/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
